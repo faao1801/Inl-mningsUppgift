@@ -10,7 +10,7 @@ public class Inlämningsuppgift1 {
    
     public static void main(String[] args) {
         
-        System.out.println("jag är kod nr 2");
+        System.out.println("jag är kod nr 3");
     }
 
 }
